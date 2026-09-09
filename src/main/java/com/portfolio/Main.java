@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Portfolio Management Project");
         System.out.println("=====================");
 
-        User1 user = new User1("101", "Rishi", "Rishi@gmail.com");
+        User user = new User("101", "Rishi", "Rishi@gmail.com");
 
         System.out.println("User ID: " + user.getUserid());
         System.out.println("Name: " + user.getName());
