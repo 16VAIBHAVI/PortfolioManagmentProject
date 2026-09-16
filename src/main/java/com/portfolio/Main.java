@@ -1,6 +1,6 @@
-package com.portfolioproject.app;
-
-import com.portfolioproject.model.*;
+package com.portfolio;
+ 
+import com.portfolio.model.*;
 
 public class Main {
 
